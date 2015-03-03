@@ -3,8 +3,8 @@
 * **deduction** A process of reasoning that moves from the general to the specific, in which a conclusion follows necessarily from the premises presented, so that the conclusion cannot be false if the premises are true.
 
 * **deductive inference (reasoning)** 
-1. inference in which the conclusion is of no greater generality than the premises
-2. inference in which the conclusion is just as certain as the premises
+  1. inference in which the conclusion is of no greater generality than the premises
+  2. inference in which the conclusion is just as certain as the premises
 
 * **induction** Derivation of general principles from specific instances. A method of proof of a theorem by first proving it for a specific case (often an integer; usually 0 or 1) and showing that, if it is true for one case then it must be true for the next.
 
